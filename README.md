@@ -8,7 +8,7 @@
 * 安裝 extensions
 * 編寫 Markdown
 * 編寫 Python
-* 編寫 HTML, CSS, JavaScript
+* 編寫 HTML, CSS, JavaScript (使用 emmet)
 * 使用 git
 
 相關網址：
